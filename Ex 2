@@ -1,0 +1,5 @@
+a=int(input("Введіть число A"))
+if (a%2>0):
+    print ("True")
+elif (a%2==0):
+    print("False")
